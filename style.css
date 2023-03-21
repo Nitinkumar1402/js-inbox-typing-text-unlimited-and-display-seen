@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    word-break: break-all;
+    overflow: auto;
+    height: 25%;
+    width: 25%;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#input {
+    word-break: break-all;
+    overflow: auto;
+    text-align: center;
+    background-color: rgb(163, 163, 115);
+    margin-left: 43.5%;
+    border: 5px;
+}
+
+body {
+    background-color: aquamarine;
+}
